@@ -28,6 +28,6 @@
   ##
   
 <div> 
-  <img src="https://github-readme-stats.vercel.app/api?username={Otavio}&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=OcttaDev&theme=blue-green">
 </div>
 
