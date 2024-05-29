@@ -25,11 +25,7 @@
   
 </div>
 
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
-
 <div> 
-  <a href = "https://octtadev.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username={Octtadev}&theme=blue-green"></a>
-
-  
+  <a href = "https://octtadev.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username={otavio}&theme=blue-green"></a>
 </div>
 
