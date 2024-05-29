@@ -26,6 +26,6 @@
 </div>
 
 <div> 
-  <a href = "https://octtadev.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username={OcttaDev}&theme=blue-green"></a>
+  <a href = "https://octtadev.github.io/portfolio/"><img src="https://github-readme-stats.vercel.app/api?username={Otavio}&theme=blue-green"></a>
 </div>
 
